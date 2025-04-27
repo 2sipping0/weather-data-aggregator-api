@@ -1,0 +1,39 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Editor configurations
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log
+
+# Cache files 
+cache/
+temp/
+
+# API keys and sensitive configuration
+config/secrets.js
+config/credentials.js
+
+# Build and distribution files
+dist/
+build/
+
+# Code coverage 
+coverage/
