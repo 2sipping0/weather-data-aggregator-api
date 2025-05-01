@@ -16,7 +16,7 @@ A unified API service that aggregates weather data from multiple free weather AP
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/weather-aggregator.git
+   git clone https://github.com/2sipping0/weather-aggregator.git
    cd weather-aggregator
    ```
 
